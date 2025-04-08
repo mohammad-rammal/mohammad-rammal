@@ -111,9 +111,9 @@
 <h3 align="center">✍️ Random Dev Quote</h3>
 
 ### 
-<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=mohammad-rammal&icon=0&color=0)](https://visitcount.itsvg.in)
 
