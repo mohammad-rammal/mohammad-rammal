@@ -28,7 +28,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
@@ -91,7 +91,9 @@
 </div>
 
 ###
+<h3 align="center">🔥   My Stats :</h3>
 
+###
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mohammad-rammal&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=mohammad-rammal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
