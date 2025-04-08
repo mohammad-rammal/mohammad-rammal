@@ -19,7 +19,9 @@
 ###
 <div align="center">
 # 💫 About Me:
+  <div>
 🔭 I’m currently working on building scalable web applications using the MERN stack, with a focus on optimizing backend performance and security.<br>👯 I’m looking to collaborate on open-source projects, especially those that leverage Node.js and MongoDB to solve real-world problems.<br>🤝 I’m looking for help with expanding my expertise in advanced backend topics such as microservices architecture and cloud deployment strategies.<br>🌱 I’m currently learning in-depth backend development techniques, cloud technologies, and database management systems.<br>💬 Ask me about anything related to MERN stack development, backend architecture, or transitioning from frontend to backend roles.<br>⚡ Fun fact: When I'm not coding, I enjoy discovering and exploring the latest in tech innovations.
+</div>
 </div>
 
 ###
